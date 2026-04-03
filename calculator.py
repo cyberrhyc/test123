@@ -18,4 +18,4 @@ def main():
         print(add())
     elif (a=="2"):
         print(subtract())
-        
+
