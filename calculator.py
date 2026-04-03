@@ -19,3 +19,5 @@ def main():
     elif (a=="2"):
         print(subtract())
 
+
+main()
